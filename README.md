@@ -1,5 +1,5 @@
 👋 Hi there, welcome to my GitHub profile! 
-I'm @dclark2434, an aspiring system administrator and AWS cloud engineer. I'm passionate about learning and working with various technologies in the field of system administration, engineering, and DevOps.
+I'm @dclark2434, an aspiring system administrator and cloud engineer. I'm passionate about learning and working with various technologies in the field of system administration, engineering, and DevOps.
 
 ## Skills and Technologies
 Here are the key technologies that I focus on:
@@ -8,7 +8,6 @@ Here are the key technologies that I focus on:
 -Infrastructure as Code: Terraform<br>
 -Containers: Docker<br>
 -Container Orchestration: Kubernetes<br>
--CI/CD Workflow: GitHub Actions<br>
 -Other relevant tools and languages in the realm of system administration, engineering, and DevOps.
 
 ## Learning Journey
