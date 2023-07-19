@@ -1,5 +1,5 @@
 👋 Hi there, welcome to my GitHub profile! 
-I'm @dclark2434, an aspiring system administrator and cloud engineer. I'm passionate about learning and working with various technologies in the field of system administration, engineering, and DevOps.
+I'm @dclark2434, an aspiring system cloud engineer. I'm passionate about learning and working with various technologies in the field of system administration, engineering, and DevOps.
 
 ## Skills and Technologies
 Here are the key technologies that I focus on:
