@@ -1,13 +1,6 @@
 👋 Hi there, welcome to my GitHub profile! 
 I'm @dclark2434, an aspiring cloud engineer. I'm passionate about learning and working with various technologies in the field of system administration, engineering, and DevOps.
 
-## Skills and Technologies
-Here are the key technologies that I focus on:
-
-Python <br>
-Bash<br>
-Terraform
-
 ## Learning Journey
 As a cloud computing student at WGU and an IT Support Lead at a large enterprise, I'm actively expanding my knowledge and honing my skills.
 
