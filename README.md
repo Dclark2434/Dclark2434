@@ -1,5 +1,5 @@
-Heyo, welcome to my GitHub profile! 
-I'm Dustin. I'm interested in learning about and working with various technologies in the field of system administration, engineering, and cloud computing. 
+Heyo, welcome to my GitHub profile!  
+I'm Dustin. I'm interested in learning about and working with various technologies in the field of system administration, engineering, and cloud computing.   
 Occasionally, I delve into making some games but mostly just to keep my programming skills sharp.
 
 Most of my projects right now deal with AWS, Terraform and Python.
